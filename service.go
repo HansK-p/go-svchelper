@@ -10,7 +10,6 @@ package svchelper
 import (
 	"context"
 	"fmt"
-	"log"
 	"os"
 	"path/filepath"
 	"strings"
